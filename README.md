@@ -1,4 +1,4 @@
-## Hi I'm taku-code3
+## Hello! I'm taku-code3 🧸
 
 <!--
 **taku-code3/taku-code3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

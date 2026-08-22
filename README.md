@@ -1,6 +1,6 @@
 ## Hello! I'm taku-code3 🧸
 
-I'm mainly writing program for First Robotics Competition.
+I mainly write code for the FIRST Robotics Competition.
 <!--
 **taku-code3/taku-code3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
